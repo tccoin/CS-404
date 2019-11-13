@@ -61,7 +61,7 @@ color, obj = lost #color='golden', obj='chanzi'
 color, *rest = lost #color='golden', rest=['chanzi']
 ```
 
-![](https://storage.krrr.party/storage/klog2/list and tuple.8365b38f3c9d4d8b8ad7702438b759d0.png)
+![](assets/image.8365b38f3c9d4d8b8ad7702438b759d0.png)
 
 ### 具名元组
 ```python
